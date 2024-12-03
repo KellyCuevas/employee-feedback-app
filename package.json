@@ -1,5 +1,6 @@
 {
-  "name": "vite-project",
+  "name": "employee-feedback-app",
+  "author": "Kelly Cuevas",
   "private": true,
   "version": "0.0.0",
   "type": "module",
